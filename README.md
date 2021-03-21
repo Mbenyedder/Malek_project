@@ -1,1 +1,1 @@
-# Malek_project
+Digits_recognizer
